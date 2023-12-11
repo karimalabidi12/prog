@@ -1,0 +1,17 @@
+@import '~@angular/material/prebuilt-themes/indigo-pink.css';
+
+/* Ajoutez la classe mat-typography à votre pied de page pour le thème Material Design */
+footer {
+  background-color:pink;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+
+/* Ajustez la taille des logos selon vos besoins */
+img {
+  width: 30px;
+  margin: 0 5px;
+}
+p{color:black;
+font-weight: bold;}
